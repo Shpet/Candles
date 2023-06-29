@@ -3,9 +3,10 @@
 Це початковий сайт для магазину унікальних свічок - Bidi Candles
 
 Наші соцмережі:
-https://www.instagram.com/neznayka_sh/
-https://www.instagram.com/hei_wuya/
 
+### https://www.instagram.com/neznayka_sh/
+
+### https://www.instagram.com/hei_wuya/
 
 ## Setup
 
